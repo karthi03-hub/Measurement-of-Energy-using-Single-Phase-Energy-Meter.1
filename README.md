@@ -1,5 +1,5 @@
-## Name: Mathew Roger A
-## Reg no: 212224080035
+## Name: karthikeyan b k
+## Reg no: 212224080024
 
 # Aim:
 To measure energy using Single Phase Energy Meter
